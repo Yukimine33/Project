@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7b3eeec976e20844bb1d54d12852d64e
+timeCreated: 1502437657
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - wall: {fileID: 4859910317374858, guid: f0a7d8e04589e414482713e3d389bb6e, type: 2}
+  - wallParent: {instanceID: 0}
+  - startAndEnd: {fileID: 4730652785741850, guid: 4a53d62fb4fc1d84e9645321dadc5342,
+      type: 2}
+  - searchItem: {fileID: 4533861349928128, guid: 8ce5190d8e2701c4dae23e5f3a2ae3f3,
+      type: 2}
+  - searchItemParent: {instanceID: 0}
+  - findPathItem: {fileID: 4335059844425504, guid: 295e63c9272148e40bd2cb70a039b64f,
+      type: 2}
+  - findPathParent: {instanceID: 0}
+  - mainCamera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
