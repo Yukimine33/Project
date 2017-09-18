@@ -1,0 +1,6 @@
+C:\Users\meta42games\Desktop\C#\Algorithms\Algorithms\bin\Debug\Algorithms.exe.config
+C:\Users\meta42games\Desktop\C#\Algorithms\Algorithms\bin\Debug\Algorithms.exe
+C:\Users\meta42games\Desktop\C#\Algorithms\Algorithms\bin\Debug\Algorithms.pdb
+C:\Users\meta42games\Desktop\C#\Algorithms\Algorithms\obj\Debug\Algorithms.csprojResolveAssemblyReference.cache
+C:\Users\meta42games\Desktop\C#\Algorithms\Algorithms\obj\Debug\Algorithms.exe
+C:\Users\meta42games\Desktop\C#\Algorithms\Algorithms\obj\Debug\Algorithms.pdb
