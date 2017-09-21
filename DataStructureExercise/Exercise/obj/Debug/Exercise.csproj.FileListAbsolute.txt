@@ -1,0 +1,6 @@
+E:\Unity\Part6\DataStructureExercise\Exercise\bin\Debug\Exercise.exe.config
+E:\Unity\Part6\DataStructureExercise\Exercise\bin\Debug\Exercise.exe
+E:\Unity\Part6\DataStructureExercise\Exercise\bin\Debug\Exercise.pdb
+E:\Unity\Part6\DataStructureExercise\Exercise\obj\Debug\Exercise.csprojResolveAssemblyReference.cache
+E:\Unity\Part6\DataStructureExercise\Exercise\obj\Debug\Exercise.exe
+E:\Unity\Part6\DataStructureExercise\Exercise\obj\Debug\Exercise.pdb

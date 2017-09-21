@@ -1,0 +1,6 @@
+C:\Users\meta42games\Desktop\DataStructure\CreateBit\bin\Debug\CreateBit.exe.config
+C:\Users\meta42games\Desktop\DataStructure\CreateBit\bin\Debug\CreateBit.exe
+C:\Users\meta42games\Desktop\DataStructure\CreateBit\bin\Debug\CreateBit.pdb
+C:\Users\meta42games\Desktop\DataStructure\CreateBit\obj\Debug\CreateBit.exe
+C:\Users\meta42games\Desktop\DataStructure\CreateBit\obj\Debug\CreateBit.pdb
+C:\Users\meta42games\Desktop\DataStructure\CreateBit\obj\Debug\CreateBit.csprojResolveAssemblyReference.cache

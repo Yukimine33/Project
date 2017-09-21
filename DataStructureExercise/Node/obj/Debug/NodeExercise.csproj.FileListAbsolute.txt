@@ -1,0 +1,6 @@
+c:\users\meta42games\documents\visual studio 2017\Projects\Exercise6\Node\bin\Debug\Node.exe.config
+c:\users\meta42games\documents\visual studio 2017\Projects\Exercise6\Node\bin\Debug\Node.exe
+c:\users\meta42games\documents\visual studio 2017\Projects\Exercise6\Node\bin\Debug\Node.pdb
+c:\users\meta42games\documents\visual studio 2017\Projects\Exercise6\Node\obj\Debug\NodeExercise.csprojResolveAssemblyReference.cache
+c:\users\meta42games\documents\visual studio 2017\Projects\Exercise6\Node\obj\Debug\Node.exe
+c:\users\meta42games\documents\visual studio 2017\Projects\Exercise6\Node\obj\Debug\Node.pdb

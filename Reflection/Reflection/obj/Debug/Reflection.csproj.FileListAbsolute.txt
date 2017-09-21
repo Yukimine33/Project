@@ -1,0 +1,7 @@
+C:\Users\meta42games\Desktop\C#\Reflection\Reflection\bin\Debug\Reflection.exe.config
+C:\Users\meta42games\Desktop\C#\Reflection\Reflection\bin\Debug\Reflection.exe
+C:\Users\meta42games\Desktop\C#\Reflection\Reflection\bin\Debug\Reflection.pdb
+C:\Users\meta42games\Desktop\C#\Reflection\Reflection\obj\Debug\Reflection.csprojResolveAssemblyReference.cache
+C:\Users\meta42games\Desktop\C#\Reflection\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\meta42games\Desktop\C#\Reflection\Reflection\obj\Debug\Reflection.exe
+C:\Users\meta42games\Desktop\C#\Reflection\Reflection\obj\Debug\Reflection.pdb

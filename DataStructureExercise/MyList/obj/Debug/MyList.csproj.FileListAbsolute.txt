@@ -1,0 +1,6 @@
+c:\users\meta42games\documents\visual studio 2017\Projects\Exercise6\Exercise6\bin\Debug\Exercise6.exe.config
+c:\users\meta42games\documents\visual studio 2017\Projects\Exercise6\Exercise6\bin\Debug\Exercise6.exe
+c:\users\meta42games\documents\visual studio 2017\Projects\Exercise6\Exercise6\bin\Debug\Exercise6.pdb
+c:\users\meta42games\documents\visual studio 2017\Projects\Exercise6\Exercise6\obj\Debug\MyList.csprojResolveAssemblyReference.cache
+c:\users\meta42games\documents\visual studio 2017\Projects\Exercise6\Exercise6\obj\Debug\Exercise6.exe
+c:\users\meta42games\documents\visual studio 2017\Projects\Exercise6\Exercise6\obj\Debug\Exercise6.pdb

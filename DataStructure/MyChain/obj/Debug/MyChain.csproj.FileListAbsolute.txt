@@ -1,0 +1,5 @@
+C:\Users\meta42games\Desktop\DataStructure\MyChain\bin\Debug\MyChain.exe.config
+C:\Users\meta42games\Desktop\DataStructure\MyChain\bin\Debug\MyChain.exe
+C:\Users\meta42games\Desktop\DataStructure\MyChain\bin\Debug\MyChain.pdb
+C:\Users\meta42games\Desktop\DataStructure\MyChain\obj\Debug\MyChain.exe
+C:\Users\meta42games\Desktop\DataStructure\MyChain\obj\Debug\MyChain.pdb

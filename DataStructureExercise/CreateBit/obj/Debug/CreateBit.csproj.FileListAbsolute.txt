@@ -1,0 +1,5 @@
+c:\users\meta42games\documents\visual studio 2017\Projects\Exercise6\CreateBit\bin\Debug\CreateBit.exe.config
+c:\users\meta42games\documents\visual studio 2017\Projects\Exercise6\CreateBit\bin\Debug\CreateBit.exe
+c:\users\meta42games\documents\visual studio 2017\Projects\Exercise6\CreateBit\bin\Debug\CreateBit.pdb
+c:\users\meta42games\documents\visual studio 2017\Projects\Exercise6\CreateBit\obj\Debug\CreateBit.exe
+c:\users\meta42games\documents\visual studio 2017\Projects\Exercise6\CreateBit\obj\Debug\CreateBit.pdb
